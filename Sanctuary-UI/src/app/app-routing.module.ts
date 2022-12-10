@@ -9,6 +9,7 @@ const routes: Routes = [
   {path: '', component:HomeComponent},
   {path: 'about-us', component:AboutUsComponent},
   {path: 'contact-us', component:ContactUsComponent},
+  { path: 'structures', loadChildren: () => import('./Modules/structures/structures.module').then(m => m.StructuresModule) },
   {path: '**', component:NotFoundComponent},
 ];
 
