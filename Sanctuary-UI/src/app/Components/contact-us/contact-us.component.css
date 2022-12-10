@@ -1,0 +1,36 @@
+ .container {
+     background-color: rgb(214, 234, 250);
+     border-radius: 150px 0px 150px 0px;
+     padding-bottom: 2%;
+ }
+
+ a {
+     text-decoration: none;
+ }
+
+ .icons {
+     font-size: 18px;
+     text-decoration: none;
+ }
+
+ .left,
+ .icons {
+     padding-left: 10%;
+ }
+
+ .icons img {
+     margin: 1%;
+ }
+
+ hr {
+     width: 50%;
+     margin: auto;
+     margin-bottom: 2%;
+     border: 1px green solid;
+ }
+
+ h3,
+ h1 {
+     color: green;
+     font-weight: 600;
+ }
