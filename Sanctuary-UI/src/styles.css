@@ -1,0 +1,29 @@
+/* You can add global styles to this file, and also import other style files */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Amiri', serif !important;
+
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: 600 !important;
+}
+
+p,
+a,
+li,
+label {
+    font-size: 1.18rem;
+}
+
+button,
+.btn {
+    font-size: 0.9rem !important;
+}
