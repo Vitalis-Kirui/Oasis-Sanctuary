@@ -1,0 +1,68 @@
+/* Title and int's introductory part styles */
+.top {
+    margin-top: 3%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.top h2 {
+    color: green;
+    text-decoration: underline green 2px;
+}
+
+/* Container section for structures styles sections  */
+
+.structures {
+    margin-top: 3%;
+    width: 70%;
+    margin: auto;
+}
+
+/* Left structures styles */
+
+.leftH4 {
+    color: green;
+    text-decoration: underline 2px green;
+    padding-bottom: 1%;
+}
+
+/* Right side structures universal styles */
+
+.rightH4 {
+    color: green;
+    /* float: right; */
+    text-decoration: underline green 2px;
+    padding-bottom: 1%;
+}
+
+.structures img {
+    width: 100%;
+    margin: auto;
+    height: auto;
+    border-radius: 50px 0px 50px 0px;
+}
+
+.row {
+    padding-bottom: 3%;
+    padding-top: 3%;
+    border-bottom: 1px solid green;
+}
+
+.structures p {
+    padding-top: 5%;
+}
+
+.btn {
+    margin-bottom: 3%;
+    font-size: 0.8rem;
+    border-radius: 30px 0px 30px 0px;
+}
+
+.questions {
+    padding-left: 10%;
+    color: green;
+}
+
+h3 {
+    font-size: 22px;
+}
