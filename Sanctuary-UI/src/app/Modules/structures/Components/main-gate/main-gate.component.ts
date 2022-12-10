@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { Router } from '@angular/router';
 
 @Component({
   selector: 'app-main-gate',
@@ -7,7 +8,11 @@ import { Component, OnInit } from '@angular/core';
 })
 export class MainGateComponent implements OnInit {
 
-  constructor() { }
+  constructor(private router : Router) { }
+
+  goBack(){
+    this.router.navigate(['structures']);
+  }
 
   ngOnInit(): void {
   }
