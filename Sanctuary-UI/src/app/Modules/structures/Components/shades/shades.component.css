@@ -1,0 +1,39 @@
+/* Intorductory section styles */
+.title h2 {
+    color: green;
+    font-weight: 700;
+    text-decoration: underline 3px solid green;
+}
+
+.title {
+    padding-top: 3%;
+}
+
+.images {
+    width: 100%;
+    padding-top: 3%;
+}
+
+.images h4 {
+    color: green;
+    font-weight: 700;
+    text-decoration: underline 2px solid;
+}
+
+.images img {
+    width: 100%;
+    height: auto;
+    padding-bottom: 20px;
+}
+
+.container-fluid {
+    width: 100%;
+}
+
+.shades {
+    background: url('/assets/images/selected/shades/general.jpg') fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 500px;
+}
