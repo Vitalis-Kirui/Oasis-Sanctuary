@@ -10,6 +10,7 @@ const routes: Routes = [
   {path: 'about-us', component:AboutUsComponent},
   {path: 'contact-us', component:ContactUsComponent},
   { path: 'structures', loadChildren: () => import('./Modules/structures/structures.module').then(m => m.StructuresModule) },
+  { path: 'gallery', loadChildren: () => import('./Modules/gallery/gallery.module').then(m => m.GalleryModule) },
   {path: '**', component:NotFoundComponent},
 ];
 
