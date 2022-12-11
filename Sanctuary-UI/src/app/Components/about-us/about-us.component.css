@@ -1,6 +1,6 @@
 /* About us section styles */
 .container-fluid {
-    background: url('/assets/images/about/about.jpg') fixed 100%;
+    background: fixed 100%;
     background-size: cover;
     background-repeat: no-repeat;
     height: auto;

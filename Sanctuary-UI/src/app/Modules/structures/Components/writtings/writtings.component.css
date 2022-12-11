@@ -28,7 +28,7 @@
 }
 
 .shades {
-    background: url('/assets/images/selected/shades/general.jpg') fixed;
+    background:fixed;
     background-size: cover;
     background-repeat: no-repeat;
     width: 100%;
