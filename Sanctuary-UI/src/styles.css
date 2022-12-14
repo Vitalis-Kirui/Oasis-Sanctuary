@@ -27,3 +27,15 @@ button,
 .btn {
     font-size: 0.9rem !important;
 }
+
+.btn-primary {
+    background-color: rgb(86, 122, 154) !important;
+}
+
+.btn-success {
+    background-color: rgb(83, 122, 83) !important;
+}
+
+.btn-danger {
+    background-color: rgb(190, 63, 63) !important;
+}
