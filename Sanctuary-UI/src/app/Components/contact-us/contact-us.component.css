@@ -23,10 +23,10 @@
  }
 
  hr {
-     width: 50%;
+     width: 75%;
      margin: auto;
      margin-bottom: 2%;
-     border: 1px green solid;
+     /* border: 1px green solid; */
  }
 
  h3,
