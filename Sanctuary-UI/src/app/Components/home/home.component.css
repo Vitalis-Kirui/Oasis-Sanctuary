@@ -2,8 +2,8 @@
 .mainHr {
     width: 35%;
     margin: auto;
-    color: brown;
-    background: brown;
+    color: white;
+    background: white;
     height: 0.2rem;
 }
 
@@ -30,7 +30,7 @@
 .introduction {
     padding-top: 15%;
     padding-bottom: 10%;
-    color: white;
+    color: rgb(255, 255, 255);
     font-weight: 900;
 }
 
@@ -54,7 +54,7 @@ h2 {
     margin: 2px;
     font-size: 0.8rem;
     border-radius: 10px 0px 10px 0px;
-    padding: 1%;
+    /* padding: 1%; */
 }
 
 /* Carousel section style */
