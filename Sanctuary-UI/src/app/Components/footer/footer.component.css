@@ -1,7 +1,11 @@
-h5{
+h6{
     color: green;
 }
 
 a{
     text-decoration: none;
+}
+
+footer{
+    background-color: aliceblue !important;
 }
